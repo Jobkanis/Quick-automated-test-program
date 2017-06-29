@@ -1,0 +1,12 @@
+c:\users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.exe.config
+c:\users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.exe
+c:\users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.pdb
+c:\users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\obj\Debug\TestProgram.exe
+c:\users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\obj\Debug\TestProgram.pdb
+C:\Users\jobka\documents\visual studio 2015\Projects\TestProgram\TestProgram\obj\Debug\TestProgram.csprojResolveAssemblyReference.cache
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\obj\Debug\TestProgram.exe
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\obj\Debug\TestProgram.pdb
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\obj\Debug\TestProgram.csprojResolveAssemblyReference.cache
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\bin\Debug\TestProgram.exe
+C:\Users\jobka\Documents\Visual Studio 2015\Projects\TestProgram\My-Testprogram\TestProgram\bin\Debug\TestProgram.pdb
